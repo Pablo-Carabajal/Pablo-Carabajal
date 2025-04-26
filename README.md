@@ -20,7 +20,7 @@
 
 
 </p>
-### 👀 Intereses
+👀 Intereses
 - Backend puro: Java, Spring y bases de datos relacionales
 - Mejores prácticas, patrones y arquitectura
 - Aprender nuevas tecnologías sin miedo
