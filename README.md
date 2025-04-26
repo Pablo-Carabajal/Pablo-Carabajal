@@ -3,7 +3,7 @@
 <div style="background-image: url('95293690-código-de-profondo.jpg'); background-size: cover; background-position: center; padding: 100px 0; text-align: center;">
 
   <!-- Foto redonda -->
-  <img src="ToonMe.jpg" alt="Foto de Pablo Carabajal" style="width: 150px; height: 150px; border-radius: 50%; border: 5px solid white; object-fit: cover; margin-bottom: 20px;">
+ 
 
   <!-- Texto saludo -->
   <h1 style="color: white; font-size: 2.5rem; margin: 10px 0;">👋🏿 ¡Hola! Soy Pablo Carabajal</h1>
