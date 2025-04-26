@@ -18,6 +18,29 @@
 
 
 
+
+</p>
+### 👀 Intereses
+- Backend puro: Java, Spring y bases de datos relacionales
+- Mejores prácticas, patrones y arquitectura
+- Aprender nuevas tecnologías sin miedo
+
+### 🌱 Actualmente aprendiendo
+- Perfeccionándome en un Máster de Java para dominar aún más el lenguaje
+
+### 💼 En búsqueda de oportunidades
+- Estoy listo para comenzar a trabajar en cualquier proyecto que me permita seguir creciendo
+- Mi objetivo es llegar a ser Senior y más allá 🚀
+
+### 📫 Cómo contactarme
+- 📧 Escribime a: **your.email@gmail.com** (pedime el número por ahí si querés contactarme por WhatsApp)
+
+### ⚡ Fun facts
+- Me encanta el café ☕  
+- Juego al pádel 🎾  
+- Me gusta el anime 🎌, los animales 🐾 y los días lluviosos 🌧️  
+- Estoy felizmente casado ❤️
+
 <!-- Tecnologías Backend -->
 <h2 align="center">🚀 Tecnologías Backend</h2>
 <p align="center">
@@ -43,28 +66,6 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="60" height="60"/>
   &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="60" height="60"/>
-
-</p>
-### 👀 Intereses
-- Backend puro: Java, Spring y bases de datos relacionales
-- Mejores prácticas, patrones y arquitectura
-- Aprender nuevas tecnologías sin miedo
-
-### 🌱 Actualmente aprendiendo
-- Perfeccionándome en un Máster de Java para dominar aún más el lenguaje
-
-### 💼 En búsqueda de oportunidades
-- Estoy listo para comenzar a trabajar en cualquier proyecto que me permita seguir creciendo
-- Mi objetivo es llegar a ser Senior y más allá 🚀
-
-### 📫 Cómo contactarme
-- 📧 Escribime a: **your.email@gmail.com** (pedime el número por ahí si querés contactarme por WhatsApp)
-
-### ⚡ Fun facts
-- Me encanta el café ☕  
-- Juego al pádel 🎾  
-- Me gusta el anime 🎌, los animales 🐾 y los días lluviosos 🌧️  
-- Estoy felizmente casado ❤️
 
 ---
 
