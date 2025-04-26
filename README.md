@@ -1,22 +1,24 @@
-<!-- contenedor con fondo -->
+<!-- Contenedor principal con fondo -->
 <div style="position: relative; width: 100%; height: 250px; overflow: hidden;">
 
-  <!-- fondo angosto -->
+  <!-- Fondo (imagen de fondo) -->
   <img src="fondo.jpg" alt="Fondo" 
        style="width: 100%; height: 250px; object-fit: cover;">
 
-  <!-- contenido superpuesto -->
+  <!-- Contenido superpuesto (foto y saludo) -->
   <div style="
     position: absolute;
-    top: 0; left: 0;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
     width: 100%; height: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     text-align: center;
+    z-index: 1;
   ">
-    <!-- foto circular -->
+    <!-- Foto de perfil (circular) -->
     <img src="ToonMe.jpg" alt="Foto de Pablo Carabajal"
          style="
            width: 150px; height: 150px;
@@ -26,7 +28,7 @@
            background-color: white;
            margin-bottom: 10px;
          ">
-    <!-- saludo -->
+    <!-- Saludo -->
     <h1 style="color: white; font-size: 2.2rem; margin: 0;">
       👋🏿 ¡Hola! Soy Pablo Carabajal
     </h1>
@@ -36,6 +38,7 @@
     </p>
   </div>
 </div>
+
 
 <!-- Tecnologías Backend -->
 <h2 align="center">🚀 Tecnologías Backend</h2>
