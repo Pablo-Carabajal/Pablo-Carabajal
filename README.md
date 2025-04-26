@@ -1,19 +1,39 @@
-<!-- Contenedor general -->
+<!-- contenedor con fondo -->
 <div style="position: relative; width: 100%; height: 250px; overflow: hidden;">
 
-  <!-- Imagen de fondo como header angosto -->
-  <img src="fondo.jpg" alt="Fondo" style="width: 100%; height: 250px; object-fit: cover;">
+  <!-- fondo angosto -->
+  <img src="fondo.jpg" alt="Fondo" 
+       style="width: 100%; height: 250px; object-fit: cover;">
 
-  <!-- Contenedor del contenido encima -->
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
-    <img src="ToonMe.jpg" alt="Foto de Pablo Carabajal" style="width: 150px; height: 150px; border-radius: 50%; border: 5px solid white; object-fit: cover; background-color: white; margin-bottom: 10px;">
-    <!-- Texto de saludo -->
-    <h1 style="color: white; font-size: 2.2rem; margin: 10px 0 0 0;">👋🏿 ¡Hola! Soy Pablo Carabajal</h1>
-    <p style="color: white; font-size: 1.2rem; margin: 5px 0 0 0;">
+  <!-- contenido superpuesto -->
+  <div style="
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  ">
+    <!-- foto circular -->
+    <img src="ToonMe.jpg" alt="Foto de Pablo Carabajal"
+         style="
+           width: 150px; height: 150px;
+           border-radius: 50%;
+           border: 5px solid white;
+           object-fit: cover;
+           background-color: white;
+           margin-bottom: 10px;
+         ">
+    <!-- saludo -->
+    <h1 style="color: white; font-size: 2.2rem; margin: 0;">
+      👋🏿 ¡Hola! Soy Pablo Carabajal
+    </h1>
+    <p style="color: white; font-size: 1.1rem; margin: 5px 0 0;">
       Fullstack Developer enfocado en Backend 💻<br>
       ¡Apasionado por Java, Spring, MySQL y Angular! 🚀
     </p>
-
   </div>
 </div>
 
