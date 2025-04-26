@@ -1,25 +1,35 @@
-<!-- Fondo tipo banner -->
-<div style="position: relative; width: 100%; height: 250px; background: black; background-image: url('https://i.imgur.com/TAhZkYt.png'); background-size: cover; background-position: center;">
+<div style="background-color: #000; background-image: url('data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'100%\' height=\'100%\'><line x1=\'0\' y1=\'0\' x2=\'100%\' y2=\'100%\' stroke=\'lime\' stroke-width=\'0.5\' /><line x1=\'0\' y1=\'100%\' x2=\'100%\' y2=\'0\' stroke=\'lime\' stroke-width=\'0.5\' /></svg>'); background-repeat: repeat; background-size: cover; padding: 100px 0; position: relative; text-align: center;">
 
-  <!-- Imagen de perfil circular -->
-  <img src="ToonMe.jpg" alt="Foto de Pablo Carabajal" style="width: 150px; height: 150px; border-radius: 50%; border: 4px solid #00FF00; position: absolute; bottom: -75px; left: 50%; transform: translateX(-50%); background-color: white;">
+  <!-- Foto circular -->
+  <img src="ToonMe.jpg" alt="Foto de Pablo Carabajal" style="width: 150px; height: 150px; border-radius: 50%; border: 5px solid white; object-fit: cover; margin-bottom: 20px;">
 
-  <!-- Texto de saludo sobre el fondo -->
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -120%); color: white; text-align: center;">
-    <h1 style="font-size: 2rem; margin: 0;">👋🏿 ¡Hola! Soy Pablo Carabajal</h1>
-  </div>
+  <!-- Texto de saludo -->
+  <h1 style="color: white; font-size: 2.5rem; margin: 10px 0;">👋🏿 ¡Hola! Soy Pablo Carabajal</h1>
+  <p style="color: white; font-size: 1.2rem; margin: 0;">
+    Fullstack Developer enfocado en el Backend 💻<br>
+    ¡Apasionado por Java, Spring, MySQL y Angular! 🚀
+  </p>
 
 </div>
 
 <br><br>
 
-<!-- Tecnologías -->
 <div align="center">
   <h2 style="color: #00FF00;">🚀 Tecnologías que manejo</h2>
+
+  <!-- Íconos de skillicons.dev -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,github,html,java,js,mongodb,mysql,nodejs,postman,py,react,vscode,intellij,netbeans" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,github,html,java,js,mongodb,mysql,nodejs,postman,py,angular,vscode" />
   </a>
+
+  <br><br>
+
+  <!-- Íconos de IntelliJ y NetBeans (por separado) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="60" height="60"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="60" height="60"/>
 </div>
+
 
 ---
 
