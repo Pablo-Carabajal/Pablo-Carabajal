@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-user-id?v=4" width="150" alt="Pablo Carabajal Avatar" 
+  <img src="./perfilmodificado.jpg" width="150" alt="Pablo Carabajal Avatar" 
     style="border-radius: 50%; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   
   <h1>👋 Hi, I’m @Pablo-Carabajal</h1>
