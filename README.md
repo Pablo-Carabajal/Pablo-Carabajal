@@ -1,25 +1,5 @@
-<!-- Contenedor principal con fondo -->
-<div style="position: relative; width: 100%; height: 250px; overflow: hidden;">
-
-  <!-- Fondo (imagen de fondo) -->
-  <img src="fondo.jpg" alt="Fondo" 
-       style="width: 100%; height: 250px; object-fit: cover;">
-
-  <!-- Contenido superpuesto (foto y saludo) -->
-  <div style="
-    position: absolute;
-    top: 50%; left: 50%;
-    transform: translate(-50%, -50%);
-    width: 100%; height: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    z-index: 1;
-  ">
-    <!-- Foto de perfil (circular) -->
-    <img src="ToonMe.jpg" alt="Foto de Pablo Carabajal"
+ <!-- Foto de perfil (circular) -->
+   <img src="ToonMe.jpg" alt="Foto de Pablo Carabajal"
          style="
            width: 150px; height: 150px;
            border-radius: 50%;
