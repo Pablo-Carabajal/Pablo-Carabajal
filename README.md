@@ -1,8 +1,3 @@
-<!-- Fondo con líneas verdes y foto circular -->
-<div style="background-image: url('fondo.jpg'); background-size: cover; background-position: center; padding: 100px 0; text-align: center;">
-
-  <!-- Foto redonda -->
-  <img src="ToonMe.jpg" alt="Foto de Pablo Carabajal" style="width: 150px; height: 150px; border-radius: 50%; border: 5px solid white; object-fit: cover; margin-bottom: 20px;">
 
  <!-- Fondo con líneas verdes -->
 <div style="background-image: url('95293690-código-de-profondo.jpg'); background-size: cover; background-position: center; padding: 100px 0; text-align: center;">
@@ -41,9 +36,11 @@
 <!-- IDEs -->
 <h2 align="center">🖥️ Entornos de Desarrollo (IDEs)</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=intellij" alt="IntelliJ IDEA" />
-  <img src="https://skillicons.dev/icons?i=netbeans" alt="NetBeans" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="60" height="60" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="60" height="60"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="60" height="60"/>
+
 </p>
 ### 👀 Intereses
 - Backend puro: Java, Spring y bases de datos relacionales
