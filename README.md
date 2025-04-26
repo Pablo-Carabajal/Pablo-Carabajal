@@ -1,31 +1,25 @@
-<!-- Imagen de fondo -->
-<div style="position: relative; text-align: center; background: linear-gradient(to right, #0f0f0f, #0f0f0f); padding: 2rem 0;">
-  <img src="ToonMe.jpg" alt="Foto de Pablo Carabajal" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; border: 4px solid #00FF00; background-color: white; margin-top: -75px;">
-  
-  <!-- Texto de saludo -->
-  <div style="color: white; text-align: center; margin-top: 1rem;">
-    <h1 style="font-size: 2.5rem; margin: 0;">👋🏿 ¡Hola! Soy Pablo Carabajal</h1>
-    <p style="font-size: 1.2rem; margin-top: 0.5rem;">
-      Fullstack Developer enfocado en el Backend 💻<br>
-      ¡Apasionado por Java, Spring, MySQL y Angular! 🚀
-    </p>
+<!-- Fondo tipo banner -->
+<div style="position: relative; width: 100%; height: 250px; background: black; background-image: url('https://i.imgur.com/TAhZkYt.png'); background-size: cover; background-position: center;">
+
+  <!-- Imagen de perfil circular -->
+  <img src="ToonMe.jpg" alt="Foto de Pablo Carabajal" style="width: 150px; height: 150px; border-radius: 50%; border: 4px solid #00FF00; position: absolute; bottom: -75px; left: 50%; transform: translateX(-50%); background-color: white;">
+
+  <!-- Texto de saludo sobre el fondo -->
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -120%); color: white; text-align: center;">
+    <h1 style="font-size: 2rem; margin: 0;">👋🏿 ¡Hola! Soy Pablo Carabajal</h1>
   </div>
+
 </div>
 
----
+<br><br>
 
 <!-- Tecnologías -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block; color: #00FF00;">Technologies That I Know 👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-
-<p align="center">
+<div align="center">
+  <h2 style="color: #00FF00;">🚀 Tecnologías que manejo</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,github,html,java,js,mongodb,mysql,nodejs,postman,py,react,vscode,netbeans=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,github,html,java,js,mongodb,mysql,nodejs,postman,py,react,vscode,intellij,netbeans" />
   </a>
-</p>
+</div>
 
 ---
 
