@@ -1,23 +1,21 @@
- <!-- Foto de perfil (circular) -->
-   <img src="ToonMe.jpg" alt="Foto de Pablo Carabajal"
-         style="
-           width: 150px; height: 150px;
-           border-radius: 50%;
-           border: 5px solid white;
-           object-fit: cover;
-           background-color: white;
-           margin-bottom: 10px;
-         ">
-    <!-- Saludo -->
-    <h1 style="color: white; font-size: 2.2rem; margin: 0;">
-      👋🏿 ¡Hola! Soy Pablo Carabajal
-    </h1>
-    <p style="color: white; font-size: 1.1rem; margin: 5px 0 0;">
-      Fullstack Developer enfocado en Backend 💻<br>
-      ¡Apasionado por Java, Spring, MySQL y Angular! 🚀
-    </p>
-  </div>
-</div>
+<!-- Foto de perfil circular y saludo al lado, centrados -->
+<table align="center" cellpadding="0" cellspacing="10">
+  <tr>
+    <td>
+      <img src="ToonMe.jpg" alt="Foto de Pablo Carabajal"
+           width="150" height="150"
+           style="border-radius:50%; object-fit:cover;" />
+    </td>
+    <td valign="middle">
+      <h1 style="margin:0; font-size:1.8rem;">👋🏿 ¡Hola! Soy Pablo Carabajal</h1>
+      <p style="margin:5px 0 0; font-size:1rem;">
+        Fullstack Developer enfocado en Backend 💻
+        ¡Apasionado por Java, Spring, MySQL y Angular! 🚀
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 
 <!-- Tecnologías Backend -->
