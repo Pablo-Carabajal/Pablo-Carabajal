@@ -33,7 +33,7 @@
 - Mi objetivo es llegar a ser Senior y más allá 🚀
 
 ### 📫 Cómo contactarme
-- 📧 Escribime a: **your.email@gmail.com** (pedime el número por ahí si querés contactarme por WhatsApp)
+- 📧 Escribime a: **carabajalpabloezequiel@gmail.com** (pedime el número por ahí si querés contactarme por WhatsApp)
 
 ### ⚡ Fun facts
 - Me encanta el café ☕  
