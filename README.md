@@ -1,17 +1,21 @@
-<!-- Imagen de fondo (puesta como imagen normal) -->
-<img src="fondo.jpg" alt="Fondo" style="width: 100%; height: auto;">
+<!-- Contenedor general -->
+<div style="position: relative; width: 100%; height: 250px; overflow: hidden;">
 
-<!-- Saludo encima -->
-<div style="text-align: center; margin-top: -250px;">
-  <img src="ToonMe.jpg" alt="Foto de Pablo Carabajal" style="width: 150px; height: 150px; border-radius: 50%; border: 5px solid white; object-fit: cover; margin-bottom: 20px; background-color: white;">
-  <h1 style="color: white; font-size: 2.5rem;">👋🏿 ¡Hola! Soy Pablo Carabajal</h1>
-  <p style="color: white; font-size: 1.2rem;">
-    Fullstack Developer enfocado en el Backend 💻<br>
-    ¡Apasionado por Java, Spring, MySQL y Angular! 🚀
-  </p>
+  <!-- Imagen de fondo como header angosto -->
+  <img src="fondo.jpg" alt="Fondo" style="width: 100%; height: 250px; object-fit: cover;">
+
+  <!-- Contenedor del contenido encima -->
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
+    <img src="ToonMe.jpg" alt="Foto de Pablo Carabajal" style="width: 150px; height: 150px; border-radius: 50%; border: 5px solid white; object-fit: cover; background-color: white; margin-bottom: 10px;">
+    <!-- Texto de saludo -->
+    <h1 style="color: white; font-size: 2.2rem; margin: 10px 0 0 0;">👋🏿 ¡Hola! Soy Pablo Carabajal</h1>
+    <p style="color: white; font-size: 1.2rem; margin: 5px 0 0 0;">
+      Fullstack Developer enfocado en Backend 💻<br>
+      ¡Apasionado por Java, Spring, MySQL y Angular! 🚀
+    </p>
+
+  </div>
 </div>
-
----
 
 <!-- Tecnologías Backend -->
 <h2 align="center">🚀 Tecnologías Backend</h2>
