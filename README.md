@@ -34,7 +34,7 @@
 <!-- Tecnologías Frontend -->
 <h2 align="center">🎨 Tecnologías Frontend</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,angular" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,ts,angular" alt="Frontend Skills" />
 </p>
 
 <!-- Herramientas -->
